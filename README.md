@@ -1,4 +1,5 @@
 # Rubik's Cube Timer
+![image](https://github.com/user-attachments/assets/3d18ed01-8e49-4421-9aa0-127b50bd4521)
 
 ## Overview
 This is a simple and interactive Rubik's Cube timer designed for speedcubers. It allows users to generate scrambles, track their solving times, and view statistics like personal bests. The timer supports both 2D and 3D visualization of the cube scramble.
